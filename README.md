@@ -34,6 +34,9 @@ Non-alphabetic characters remain unchanged in the output.
 
 ### Decryption Example
 `Enter 'e' to encrypt or 'd' to decrypt: d`
+
 `Enter your text: DWWDFN DW GDZQ!`
+
 `Enter shift value (0-25): 3`
+
 `Decrypted text: ATTACK AT DAWN!`
