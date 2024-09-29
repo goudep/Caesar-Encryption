@@ -24,13 +24,13 @@ Non-alphabetic characters remain unchanged in the output.
 
 ### Encryption Example 
 
-`Enter 'e' to encrypt or 'd' to decrypt: e
- Enter your text: Attack at dawn!
- Enter shift value (0-25): 3
- Encrypted text: DWWDFN DW GDZQ!`
+`Enter 'e' to encrypt or 'd' to decrypt: e`
+`Enter your text: Attack at dawn!`
+`Enter shift value (0-25): 3`
+`Encrypted text: DWWDFN DW GDZQ!`
 
 ### Decryption Example
-`Enter 'e' to encrypt or 'd' to decrypt: d
- Enter your text: DWWDFN DW GDZQ!
- Enter shift value (0-25): 3
- Decrypted text: ATTACK AT DAWN!`
+`Enter 'e' to encrypt or 'd' to decrypt: d`
+`Enter your text: DWWDFN DW GDZQ!`
+`Enter shift value (0-25): 3`
+`Decrypted text: ATTACK AT DAWN!`
